@@ -1,0 +1,13 @@
+package aop1_xml;
+
+public class MessageBeanImpl implements MessageBean {
+	public void sayHello() {
+		System.out.println("sayHello 출력");
+	}
+	public void enSayHello() {
+		
+	}
+	public void koSayHello() {
+		
+	}
+}

@@ -1,0 +1,7 @@
+package aop1_xml;
+
+public class MessageBean {
+	void sayHello();
+	void enSayHello();
+	void koSayHello();
+}
